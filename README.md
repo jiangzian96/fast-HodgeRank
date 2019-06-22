@@ -9,7 +9,7 @@ A MATLAB implementation of the methods I have used in my senior thesis. Partiall
 * Spectral graph theory
 * Algebraic Multigrid method (AMG)
 
-*** Related links
+### Related links
 * Algebraic Multigrid for Least Squares Problems on Graphs with Applications to HodgeRank https://ieeexplore.ieee.org/abstract/document/7965102
 * Statistical Ranking and Combinatorial
 Hodge theory https://web.stanford.edu/~yyye/hodgeRank2011.pdf
@@ -17,6 +17,6 @@ Hodge theory https://web.stanford.edu/~yyye/hodgeRank2011.pdf
 * Row sampling in graph Laplacian https://arxiv.org/abs/1005.3097
 * Spectral graph theory summary http://cs.yale.edu/homes/spielman/sgta/SpectTut.pdf
 
-*** License
+### License
 This project is completely free and open source under the very permissive MIT license.
 本项目全部内容遵守 MIT 许可协议.
