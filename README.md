@@ -17,6 +17,6 @@ Hodge theory https://web.stanford.edu/~yyye/hodgeRank2011.pdf
 * Row sampling in graph Laplacian https://arxiv.org/abs/1005.3097
 * Spectral graph theory summary http://cs.yale.edu/homes/spielman/sgta/SpectTut.pdf
 
-### License
+### LICENSE
 This project is completely free and open source under the very permissive MIT license.
 本项目全部内容遵守 MIT 许可协议.
