@@ -1,5 +1,5 @@
 # fast-HodgeRank
-A MATLAB implementation of the methods I have used in my senior thesis. Partially collaborated with Prof. Xiaozhe Hu (http://math.tufts.edu/faculty/xhu/)
+A MATLAB implementation of the methods I have used in my senior thesis. Partially collaborated with Prof. Xiaozhe Hu (http://math.tufts.edu/faculty/xhu/) and Dr. Junyuan Lin (https://sites.google.com/view/junyuanlin/home)
 
 * Successive Subspace Correction
 * HodgeRank problem
